@@ -76,10 +76,4 @@ import matplotlib
 - Users can modify parameters such as the desired probability or the range of people to analyze by adjusting input values or code variables.
 - For any issues or further inquiries, please refer to the code comments or contact the developer team.
 
-## Team-members:
 
-- Apoorv Tandon (220192)
-- Daksh Kumar Singh (220322)
-- Himanshu Shekhar (220454)
-- Swayamsidh Pradhan (221117)
-- Tanishq Maheshwari (221128)
